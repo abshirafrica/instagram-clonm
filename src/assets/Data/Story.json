@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "name": "Baaquli Boy",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmZNkV-Q2bEXzIQkWo-TABPqK6ZNz1JDGJsg&usqp=CAU"
+  },
+  {
+    "id": 1,
+    "name": "Baba Jay",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvNu_cVDGkAlbla6XmIa1FN7YQaDNVWOK0vA&usqp=CAU"
+  },
+  {
+    "id": 1,
+    "name": "Idiris",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj0q39puaPlB3ydQ15XL-jyQ3z6lahbj6F8g&usqp=CAU"
+  },
+
+  {
+    "id": 7,
+    "name": "Shaadiyo Sharaf",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6IhOzhrLa1MMMbK4tJW2SRwi7A3bHDX_56w&usqp=CAU"
+  },
+  {
+    "id": 2,
+    "name": "Dayax ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6IhOzhrLa1MMMbK4tJW2SRwi7A3bHDX_56w&usqp=CAU"
+  },
+
+  {
+    "id": 3,
+    "name": "Cadnaan",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKAB35SfUReBBSrKLmO39rr9VT_T-N2tovKw&usqp=CAU"
+  },
+  {
+    "id": 1,
+    "name": "Qadiijo Ali",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeHi0BWdGg2PCjPT438jkbzL-Q1p4g0h99Mg&usqp=CAU"
+  },
+
+  {
+    "id": 1,
+    "name": "Sahro Ahmed",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFbLgTg1uydj20V1bdDddp5_SUj6Nx9tVlQg&usqp=CAU"
+  },
+  {
+    "id": 1,
+    "name": "Muhudiin Ibrahin",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOtyyOyNXq3Fy5euxshwXGbqhrXW8Qr79fGg&usqp=CAU"
+  },
+  {
+    "id": 1,
+    "name": "Huseyn ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYjS9VA7Zd7l9AzCHcBvHm6vaq4jMOXzTudA&usqp=CAU"
+  },
+  {
+    "id": 1,
+    "name": "Mohamed Qaasin",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgWgN6008XDoTy65CJY2pqaSNkoRZOZysnNw&usqp=CAU"
+  }
+]
